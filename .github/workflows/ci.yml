@@ -28,3 +28,5 @@ jobs:
         run: python examples/quickstart.py
       - name: Run benchmark
         run: python -m graphpulse.benchmark
+      - name: Run oracle-vs-fair comparison
+        run: python -m graphpulse.eval_v2
