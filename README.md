@@ -2,7 +2,6 @@
 
 The most dangerous node in your graph has a perfectly average number of connections. Degree-based detectors will never catch it. graphpulse does.
 
-![CI](https://github.com/ahmeddoghri/graphpulse/actions/workflows/ci.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![deps](https://img.shields.io/badge/runtime%20deps-none-success)
 ![license](https://img.shields.io/badge/license-MIT-black)
