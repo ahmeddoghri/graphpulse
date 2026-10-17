@@ -2,9 +2,13 @@
 
 The most dangerous node in your graph has a perfectly average number of connections. Degree-based detectors will never catch it. graphpulse does.
 
+[![tests](https://github.com/ahmeddoghri/graphpulse/actions/workflows/tests.yml/badge.svg)](https://github.com/ahmeddoghri/graphpulse/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![deps](https://img.shields.io/badge/runtime%20deps-none-success)
 ![license](https://img.shields.io/badge/license-MIT-black)
+[![case study](https://img.shields.io/badge/case%20study-adoghri.com-e0703e)](https://adoghri.com/project-29.html)
+
+![graphpulse](docs/cover.jpg)
 
 Most anomaly detectors reach for degree first because it is the easiest
 number on a graph to compute, which also makes it the easiest number to
